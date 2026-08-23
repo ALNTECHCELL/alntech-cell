@@ -1,2 +1,3 @@
-# alntech-cell
-Sistema ALNTECH CELL
+.gitignore
+index.html
+README.md
